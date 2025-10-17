@@ -8,4 +8,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-|`Noel De Roij| `deroij` |
+|Noel De Roij| `deroij` |
